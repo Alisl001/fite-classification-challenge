@@ -16,7 +16,7 @@ To download the datasets, first clone this repository and navigate into the proj
 
 **Quick Start Commands:**
 ```bash
-git clone <repository_url>
-cd <repository_folder>
+git clone https://github.com/Alisl001/fite-classification-challenge.git
+cd fite-classification-challenge
 dvc pull
 ```
